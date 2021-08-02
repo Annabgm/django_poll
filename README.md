@@ -1,2 +1,2 @@
-# gjango_poll
-Gjango tutorial project
+# django_poll
+django tutorial project
